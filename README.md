@@ -1,13 +1,3 @@
-# vue-starter
+Minimal reproduction repo for daisyui color issue,
 
-- Vue
-- Vite
-- Pinia
-- Vue Router
-- Tailwind CSS
-
-```bash
-degit ruibaby/vue-starter new-project
-
-cd new-project && pnpm install
-```
+please see <https://github.com/saadeghi/daisyui/issues/2703>
